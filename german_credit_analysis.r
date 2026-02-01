@@ -1,5 +1,5 @@
 ################################################################################
-# CSCE 5380 Data Mining Project - Milestone 2
+# CSCE 5380 Data Mining Project - Milestone 1
 # German Credit Dataset Analysis
 # Classifiers: Decision Tree, PART, and Ripper (JRip)
 #
